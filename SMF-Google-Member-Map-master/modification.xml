@@ -5,6 +5,8 @@
   author Spuds
   copyright (c) 2011 Spuds
   license license.txt (included with package) MPL 1.1
+  editor ChNic 2016
+  reason for edit: compatibilty for (SMF) 2.1
 --------------------------------------------------------------------------- -->
 <modification xmlns="http://www.simplemachines.org/xml/modification" xmlns:smf="http://www.simplemachines.org/">
 
